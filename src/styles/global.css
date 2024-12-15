@@ -1,0 +1,14 @@
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.table-content {
+  margin-top: 16px;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}
